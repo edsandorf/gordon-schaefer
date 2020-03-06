@@ -1,0 +1,15 @@
+body {
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+/* MAIN PANEL */
+.main-panel {
+  background-color: white;
+}
+
+/* Sidebar panel */
+.sidebar-panel {
+  background-color: white;
+  border: none;
+}
